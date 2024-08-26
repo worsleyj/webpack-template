@@ -1,4 +1,4 @@
 import "./reset.css";
 import "./styles.css";
 
-console.log("Test");
+console.log("TEST2");
